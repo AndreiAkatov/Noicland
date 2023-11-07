@@ -1,0 +1,37 @@
+.section_3 {
+    padding: 90px 0;
+    border-bottom: 1px solid rgba(135, 133, 133, 0.5);
+}
+
+.title {
+    color: #999;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+
+    margin-bottom: 30px;
+}
+
+.btn_box {
+    display: flex;
+    justify-content: center;
+
+}
+
+.btn {
+    color: #000;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 21px 26px;
+    border: 1px solid #000;
+    background: #FFF;
+}

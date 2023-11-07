@@ -1,0 +1,190 @@
+{
+    "cards_1": [
+        {
+            "id": 1,
+            "name": "Photography",
+            "description": "Helmut Lang celebrates taxi drivers worldwide in latest campaign",
+            "author": "Alessandra Ortiz",
+            "image": "./photos/cards_1/cards1_img1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Photography",
+            "description": "Bowlcut launch a new summer collection that pays homage to “UK legends”",
+            "author": "Rosanna Ondricka",
+            "image": "./photos/cards_1/cards1_img2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Photography",
+            "description": "Thousands of previously unseen photographs by Andy Warhol will be made public this Autumn",
+            "author": "Annie Lueilwitz",
+            "image": "./photos/cards_1/cards1_img3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Photography",
+            "description": "London-based Yinka Ilori’s storytelling furniture",
+            "author": "Annie Lueilwitz",
+            "image": "./photos/cards_1/cards1_img4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Photography",
+            "description": "Anonymous Israeli art collective Broken Fingaz direct music video for U2 and Beck",
+            "author": "Simeon Brekke",
+            "image": "./photos/cards_1/cards1_img5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Photography",
+            "description": "Suzanne Saroff’s meticulously arranged photographs alter perceptions",
+            "author": "Reta Torphy",
+            "image": "./photos/cards_1/cards1_img6.jpg"
+        }
+    ],
+    "cards": [
+        {
+            "id": 1,
+            "name": "Photography",
+            "description": "Japan House opens in mountainside to foster peak creativity.",
+            "author": "Reta Torphy",
+            "image": "./photos/cards_2/cards2_img1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Photography",
+            "description": "Helmut Lang celebrates taxi drivers worldwide in latest campaign",
+            "author": "Alessandra Ortiz",
+            "image": "./photos/cards_2/cards2_img2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Photography",
+            "description": "Bowlcut launch a new summer collection that pays homage to “UK legends”",
+            "author": "Rosanna Ondricka",
+            "image": "./photos/cards_2/cards2_img3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Photography",
+            "description": "Thousands of previously unseen photographs by Andy Warhol will be made public this Autumn",
+            "author": "Annie Lueilwitz",
+            "image": "./photos/cards_2/cards2_img4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Photography",
+            "description": "London-based Yinka Ilori’s storytelling furniture",
+            "author": "Annie Lueilwitz",
+            "image": "./photos/cards_2/cards2_img5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Photography",
+            "description": "Anonymous Israeli art collective Broken Fingaz direct music video for U2 and Beck",
+            "author": "Simeon Brekke",
+            "image": "./photos/cards_2/cards2_img6.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Photography",
+            "description": "Suzanne Saroff’s meticulously arranged photographs alter perceptions",
+            "author": "Reta Torphy",
+            "image": "./photos/cards_2/cards2_img7.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Photography",
+            "description": "Anu Ambasna’s playful illustrations celebrate club culture, brown bodies and perfect paunches",
+            "author": "Leo Bartell",
+            "image": "./photos/cards_2/cards2_img8.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Photography",
+            "description": "Japan House opens in mountainside to foster peak creativity.",
+            "author": "Reta Torphy",
+            "image": "./photos/cards_2/cards2_img1.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Photography",
+            "description": "Helmut Lang celebrates taxi drivers worldwide in latest campaign",
+            "author": "Alessandra Ortiz",
+            "image": "./photos/cards_2/cards2_img2.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Photography",
+            "description": "Bowlcut launch a new summer collection that pays homage to “UK legends”",
+            "author": "Rosanna Ondricka",
+            "image": "./photos/cards_2/cards2_img3.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Photography",
+            "description": "Thousands of previously unseen photographs by Andy Warhol will be made public this Autumn",
+            "author": "Annie Lueilwitz",
+            "image": "./photos/cards_2/cards2_img4.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Photography",
+            "description": "London-based Yinka Ilori’s storytelling furniture",
+            "author": "Annie Lueilwitz",
+            "image": "./photos/cards_2/cards2_img5.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Photography",
+            "description": "Anonymous Israeli art collective Broken Fingaz direct music video for U2 and Beck",
+            "author": "Simeon Brekke",
+            "image": "./photos/cards_2/cards2_img6.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Photography",
+            "description": "Suzanne Saroff’s meticulously arranged photographs alter perceptions",
+            "author": "Reta Torphy",
+            "image": "./photos/cards_2/cards2_img7.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Photography",
+            "description": "Anu Ambasna’s playful illustrations celebrate club culture, brown bodies and perfect paunches",
+            "author": "Leo Bartell",
+            "image": "./photos/cards_2/cards2_img8.jpg"
+        }
+    ],
+    "cards_2": [
+        {
+            "id": 1,
+            "name": "Graphic Design",
+            "description": "A Brief History of the FIFA World Cup Logo",
+            "author": "Clem Onojeghuo",
+            "image": "./photos/cards_3/cards3_img1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Graphic Design",
+            "description": "Need a guide to LA’s graphic design scene? Shoplifters’ new issue has got your back",
+            "author": "Alessandra Ortiz",
+            "image": "./photos/cards_3/cards3_img2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Graphic Design",
+            "description": "Fred Rowson directs film for Years and Years",
+            "author": "Coby Gottlieb",
+            "image": "./photos/cards_3/cards3_img3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Graphic Design",
+            "description": "M&C Saatchi and Fontsmith collaborate on font collection for House of St Barnabas",
+            "author": "Annie Lueilwitz",
+            "image": "./photos/cards_3/cards3_img4.jpg"
+        }
+    ]
+}

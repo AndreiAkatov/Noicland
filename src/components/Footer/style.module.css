@@ -1,0 +1,140 @@
+.footer {
+    background: #141414;
+    padding: 90px 0;
+}
+
+.logo_box {
+    padding-bottom: 60px;
+    border-bottom: 1px solid #4D4D4D;
+}
+
+.logo {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 23px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: white;
+    margin-right: 15px;
+}
+
+.copyright {
+    display: inline;
+    color: #666;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.categories_box {
+    margin-top: 60px;
+    margin-bottom: 40px;
+    display: flex;
+}
+
+.categories_container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 55px;
+}
+
+.categories_container .title {
+    margin-bottom: 20px;
+}
+
+.title {
+    color: #666;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.categories {
+    display: flex;
+    gap: 11px;
+}
+
+.categories_item {
+    display: flex;
+    flex-direction: column;
+    padding-right: 114px;
+    padding-bottom: 15px;
+}
+
+.categories_item>.link:first-child {
+    margin-bottom: 15px;
+}
+
+.link {
+    text-decoration: none;
+    color: #FFF;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.subscribe_container {
+    display: flex;
+    flex-direction: column;
+}
+
+.subscribe_container .title {
+    margin-bottom: 20px;
+}
+
+.input {
+    border: 1px solid #CCC;
+    padding: 18px 23px;
+
+    color: #666;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.button {
+    border: 1px solid #000;
+    padding: 18px 24px;
+
+    background: #000;
+    color: #FFF;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.social_box {
+    display: flex;
+}
+
+.information,
+.follow_us,
+.template {
+    display: flex;
+    flex-direction: column;
+    flex: 0 1 225px;
+}
+
+.information .title,
+.follow_us .title,
+.template .title {
+    margin-bottom: 20px;
+}
+
+.information>.link:not(:last-child),
+.follow_us>.link:not(:last-child),
+.template>.link:not(:last-child) {
+    margin-bottom: 10px;
+}

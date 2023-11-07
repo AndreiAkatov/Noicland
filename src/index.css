@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "Tenor Sans";
+    src: local("TenorSans"),
+        url("./fonts/TenorSans/TenorSans-Regular.ttf") format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Libre Franklin";
+    src: local("LibreFranklin"),
+        url("./fonts/LibreFranklin/LibreFranklin-Regular.ttf") format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Libre Franklin";
+    src: local("LibreFranklin"),
+        url("./fonts/LibreFranklin/LibreFranklin-Bold.ttf") format("truetype");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Source Serif 4";
+    src: local("SourceSerif4"),
+        url("./fonts/SourceSerif4/SourceSerif4-Regular.ttf") format("truetype");
+    font-weight: normal;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    max-width: 1230px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.text-1 {
+    color: #999;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+
+}
+
+.text-2 {
+    color: #000;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}

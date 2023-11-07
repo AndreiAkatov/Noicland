@@ -1,0 +1,18 @@
+.list {
+    list-style: none;
+    display: flex;
+}
+
+.item {
+    cursor: pointer;
+    color: #000;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.item:not(:last-child) {
+    margin-right: 40px;
+}
