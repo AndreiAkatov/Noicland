@@ -2,7 +2,7 @@ Task: Develop a React app(web-site), render data with REST API. Transferring the
 
 Execution time: 2 weeks.
 
-Technologies: React Native, React, REST API, Axios, Json server, concurrently, Javascript, HTML5, module CSS.
+Technologies: React JS, REST API, Axios, Json server, concurrently, Javascript, HTML5, module CSS.
 
 Layout: https://www.figma.com/file/10NCr58WRzeNLOLwZ56uPY/Noiceland-%2B?node-id=0%3A1&mode=dev
 
